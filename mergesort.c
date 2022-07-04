@@ -5,7 +5,7 @@
 
 /* Para executar o programa é necessário fornecer o tamanho do vetor e a quantidade de threads que serão utilizadas,
 por exemplo: ./mergesort 100000 4  
-Para que o programa contabilize o tempo sequencial e concorrente, e consequentemente a aceleracao, é necessário ter
+Para que o programa contabilize o tempo sequencial e concorrente, e consequentemente a aceleração, é necessário ter
 o arquivo timer.h na mesma pasta desse programa, como disponibilizado no GitHub.*/
 
 int dim, nthread; // dimensao do vetor e numero de threads
